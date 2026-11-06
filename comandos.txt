@@ -1,0 +1,7 @@
+PASSOS PARA USAR O GIT E ATUALIZAR UM REPOSITÓRIO 
+
+Passo 1:
+git add nome do arquivo
+git commit -m 'descrição da modificação'
+git push (atualiza o repo)
+
